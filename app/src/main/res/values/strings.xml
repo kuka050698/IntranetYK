@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KbtuApp</string>
+    <string name="logout">Logout</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+</resources>
